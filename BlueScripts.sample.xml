@@ -1,0 +1,86 @@
+<doc>
+	<script>
+		<name>Faster</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>1</message>
+		</action>
+	</script>
+	<script>
+		<name>Slower</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>2</message>
+		</action>
+	</script>
+	<script>
+		<name>Change Directions</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>3</message>
+		</action>
+	</script>
+	<script>
+		<name>Emergency Stop</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>0</message>
+		</action>
+	</script> 
+	<script>
+		<name>Whistle</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>4</message>
+		</action>
+	</script> 
+	<script>
+		<name>Bell</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>5</message>
+		</action>
+	</script> 
+	<script>
+		<name>Set min speed</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>8</message>
+		</action>
+	</script> 
+	<script>
+		<name>Clear min speed</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>9</message>
+		</action>
+	</script> 
+	<script>
+		<name>Set max speed</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>6</message>
+		</action>
+	</script> 
+	<script>
+		<name>Clear max speed</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>7</message>
+		</action>
+	</script> 
+	<script>
+		<name>Enable advanced analog</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>:</message>
+		</action>
+	</script> 
+	<script>
+		<name>Disable advanced analog</name>
+		<action>
+			<address>00:12:02:10:70:21</address>
+			<message>;</message>
+		</action>
+	</script>
+</doc>
